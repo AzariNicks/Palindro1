@@ -26,5 +26,5 @@ NumChecker(word2)
 NumChecker(word3)
 NumChecker(word1)
 
-
+/* I Counldnt find it on git hub so i had to make a new save */
 
